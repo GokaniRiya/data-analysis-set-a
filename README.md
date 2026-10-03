@@ -1,4 +1,4 @@
-<img width="633" height="733" alt="image" src="https://github.com/user-attachments/assets/57e10a0a-a705-4d2e-be75-471d46c922e4" />Data Analysis Practicals
+Data Analysis Practicals
 
 This repository contains the practical work for Data Analysis Set A,
 covering Excel, SQL, Python, and Power BI.
