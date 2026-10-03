@@ -1,4 +1,4 @@
-Data Analysis Practicals
+<img width="633" height="733" alt="image" src="https://github.com/user-attachments/assets/57e10a0a-a705-4d2e-be75-471d46c922e4" />Data Analysis Practicals
 
 This repository contains the practical work for Data Analysis Set A,
 covering Excel, SQL, Python, and Power BI.
@@ -156,3 +156,46 @@ Note
 All practical files are maintained in editable form so that the examiner
 can inspect formulas, PivotTables, SQL scripts, Python analysis, Power
 BI transformations, relationships, and DAX measures.
+
+              ┌───────────────┐
+              │     START     │
+              └───────┬───────┘
+                      ↓
+          ┌──────────────────────┐
+          │   Collect CSV Data   │
+          │ deliveries + routes  │
+          └──────────┬───────────┘
+                     ↓
+          ┌──────────────────────┐
+          │    Data Cleaning     │
+          │ Remove Duplicates    │
+          └──────────┬───────────┘
+                     ↓
+          ┌──────────────────────┐
+          │   Data Integration   │
+          │ Lookup / Merge Data  │
+          └──────────┬───────────┘
+                     ↓
+          ┌──────────────────────┐
+          │ Data Transformation  │
+          │ Calculate delay_days │
+          └──────────┬───────────┘
+                     ↓
+             ┌───────┴───────┐
+             ↓       ↓       ↓       ↓
+        ┌────────┐ ┌──────┐ ┌──────┐ ┌──────────┐
+        │ Excel  │ │ SQL  │ │Python│ │ Power BI │
+        └───┬────┘ └──┬───┘ └──┬───┘ └────┬─────┘
+            ↓         ↓        ↓           ↓
+        ┌─────────────────────────────────────┐
+        │       Data Analysis & Results        │
+        └──────────────────┬──────────────────┘
+                           ↓
+                  ┌────────────────┐
+                  │ Final Report / │
+                  │ Visualization  │
+                  └───────┬────────┘
+                          ↓
+                    ┌───────────┐
+                    │    END    │
+                    └───────────┘
