@@ -1,4 +1,5 @@
 Data Analysis Practicals
+
 This repository contains the practical work for Data Analysis Set A,
 covering Excel, SQL, Python, and Power BI.
 Practical Overview
